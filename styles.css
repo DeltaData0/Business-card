@@ -10,11 +10,13 @@ body {
 
 .avatar {
     width: 150px;
+    border: 1px dashed gray;
+    border-radius: 100%;
 }
 
 .card {
-    width: 400px;
-    margin: 0 auto;
+    width: 600px;
+    margin: 15% auto;
     padding: 20px;
     display: flex;
     justify-content: space-around;
@@ -28,10 +30,6 @@ body {
     Find a color palette you like on Coolors.co
     and use it in your business card.
      */
-}
-
-.border-blue {
-    border: 1px dotted blue;
 }
 
 /*
